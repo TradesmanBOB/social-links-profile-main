@@ -74,7 +74,7 @@ body {
     margin-top: 1.5rem;
 }
 
-.profile-text h4 {
+.profile-text h2 {
     color: var(--Green);
     font-size: var(--FontsizeP);
     margin-top: 0.5rem;
